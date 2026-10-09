@@ -5,13 +5,6 @@ I'm a passionate developer who enjoys building impactful digital experiences whi
 
 Take a look at my portfolio to explore my projects and contributions, and follow my journey as I continue to learn, build, and innovate.
 
-## ⚙️ Skills & Interests
-
-* Development: Frontend, Backend, Fullstack
-* Data Science: Analysis, visualization, insights
-* Machine Learning: Model building and evaluation
-* Mindset: Continuous learning and improvement
-
 ## ✨ Fun Facts
 
 * I enjoy combining development and data to build intelligent solutions
